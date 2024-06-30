@@ -1,5 +1,5 @@
 # AuditAI
-A Robust Audit &amp; Compliance System for Banks\
+A Robust Audit & Compliance System for Banks\
 AuditAI is an innovative Audit & Compliance System designed specifically for financial institutions. Leveraging the power of generative AI and the robust infrastructure of Microsoft Azure, AuditAI aims to streamline audit processes, enhance compliance monitoring, and ensure adherence to regulatory standards with minimal human intervention.
 
 ## Features
@@ -25,10 +25,13 @@ Automated Auditing: Run the auditing scripts to analyze financial transactions a
 Compliance Monitoring: Use the compliance monitoring module to continuously check for regulatory updates and ensure adherence.\
 Reporting: Generate detailed audit reports using the report generation module.
 
+## Sample UI of the home screen of AuditAI
+![Sample UI](sample_UI.png)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-# Roadmap
+## Roadmap
 Phase 1: Initial deployment with core features for automated auditing and compliance monitoring.\
 Phase 2: Integration with additional Azure services for enhanced scalability and performance.\
 Phase 3: Advanced AI features such as predictive analytics and real-time compliance alerting.\
